@@ -2,10 +2,10 @@
 
 **Используемые технологии (строгое соблюдение):**
 
-- Java 15 (или последняя)
+- Java 11 (или последняя)
 - Maven
 - Spring boot 2.4 (или последняя версия)
-- PostgresSQL 13 (или последняя версия)
+- PostgresSQL 13 (не принципиально)
 - Можно JDBC, либо ORM
 - Html 5\CSS (Можно Thymeleaf, React.js, Angular.js, Vue.js и.т.д)
 
